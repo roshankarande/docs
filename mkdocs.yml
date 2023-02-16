@@ -45,5 +45,5 @@ nav:
     - Page 1: home/1.md
     - Page n: home/2.md
 
-  - Notebook: 
-    - Page 1: code/notebook.ipynb
+  # - Notebook: 
+  #   - Page 1: code/notebook.ipynb
