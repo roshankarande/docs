@@ -9,7 +9,7 @@ theme:
     - content.code.annotate
 
 plugins:
-  # - mkdocs-jupyter
+  - mkdocs-jupyter
   # - plotly
 
 
